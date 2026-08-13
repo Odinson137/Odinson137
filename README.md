@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Odinson137
+- 👋 Hi, I’m Yuri
 - 👀 I am interested in teaching. I like to try something new, but when I started learning programming, I realized that f№ck it all
 - 🌱 I've been working as a software developer for several years now, and my current goal is to become a software architect
 - 💞️ I want to cooperate with such global giants as Yandex, but I would also like to work with small offices such as Apple, Microsoft, Amazon
